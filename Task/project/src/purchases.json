@@ -1,0 +1,76 @@
+{
+    "purchases":[
+        {
+        "Purchase":"First",
+        "id":1,
+        "Date":"28-01-2023",
+        "UserId":1782
+    
+    },
+    {
+        "Purchase":"Second",
+        "id":2,
+        "Date":"08-02-2023",
+        "UserId":1788
+    }
+],
+    "items1":[
+        {
+            "Item":1,
+            "itemName":"Black Dog Reserve(750ml)",
+            "Quantity":2,
+            "unitPrice":7500,
+            "Amount":0
+
+        },
+        {
+            "Item":2,
+            "itemName":"Glenkinchie 12(750ml)",
+            "Quantity":1,
+            "unitPrice":6780,
+            "Amount":0
+        },
+        {
+            "Item":3,
+            "itemName":"Glenmorangie(750ml)",
+            "Quantity":1,
+            "unitPrice":6577 ,
+            "Amount":0
+        }
+    ],
+    "items2":[
+        {
+            "Item":1,
+            "itemName":"The Glenlivet (750ml)",
+            "Quantity":2,
+            "unitPrice":5656,
+            "Amount":0
+
+        },
+        {
+            "Item":2,
+            "itemName":"Talisker 10(750ml)",
+            "Quantity":1,
+            "unitPrice":5610,
+            "Amount":0
+            
+        },
+        {
+            "Item":3,
+            "itemName":"Jack Daniel’s Old No.7 (750ml)",
+            "Quantity":1,
+            "unitPrice":4570 ,
+            "Amount":0
+        }
+    ],
+    "user":
+        {
+            "userName":"yamini",
+            "firstName":"Yamini sushma",
+            "lastName":"Boddu",
+            "password":"yamini",
+            "email":"yamini@gmail.com",
+            "birthday":"28-06-1998"
+        }
+        
+}
