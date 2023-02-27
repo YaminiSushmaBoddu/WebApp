@@ -23,7 +23,7 @@ export const Login=()=>{
 
             ///implentation
            console.log("proceed") 
-        fetch("http://localhost:3005/user").then((res)=>{
+        fetch("http://localhost:3031/user").then((res)=>{
             return res.json();
         }).then((resp)=>{
             console.log(resp)
